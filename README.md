@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhuka Malshan</h1>
-<h3 align="center">A passionate developer exploring DevOps & SRE 🚀</h3>
+<h3 align="center">A passionate developer exploring DevOps & AI/ML 🚀</h3>
 
-- 🌱 I’m currently learning **- DevOps & SRE Tools: Docker, Kubernetes, Jenkins, GitHub Actions - Frameworks: Spring Boot, React, Express.js - Cloud: AWS, Terraform**
+- 🌱 I’m currently learning **- DevOps & AI/ML Tools: Docker, GitHub Actions, Agentic AI, Bots - Frameworks: Spring Boot, React, Express.js - Cloud: AWS, Terraform**
 
 - 👨‍💻 All of my projects are available at [https://github.com/madhuka2002](https://github.com/madhuka2002)
 
