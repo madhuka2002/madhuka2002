@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Hi 👋, I'm <span style="color:#00f7ff;">Madhuka Malshan</span></h1>
+<h1 align="center">⚡ Hello 👋, I'm <span style="color:#00f7ff;">Madhuka Malshan</span></h1>
 <h3 align="center">🚀 A passionate developer exploring <span style="color:#ff00ff;">DevOps</span> & <span style="color:#00ff99;">AI/ML</span></h3>
 
 <p align="center">
